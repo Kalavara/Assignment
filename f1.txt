@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 hi this is a change made in branch
 
 this is a change made again once changed into a child branch
+=======
+>>>>>>> day1
 
